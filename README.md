@@ -4,8 +4,7 @@
 
 Olá! Me chamo Arthur, tenho 19 anos e atualmente estou cursando nível técnico em Desenvolvimento de Sistemas no SENAI.  
 Sou apaixonado por tecnologia e estou sempre aprendendo e buscando novos desafios para evoluir como desenvolvedor.
-<br/>
-🚀 Em busca de experiências reais e projetos colaborativos!
+<br/>🚀 Em busca de experiências reais e projetos colaborativos!
 
 ### 🤖 Linguagens e Tecnologias
 
