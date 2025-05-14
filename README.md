@@ -59,7 +59,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo e buscando novos desafio
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    style="padding-right: 20px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=arthurfraga14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
