@@ -44,6 +44,12 @@
 ### 📊 Estatísticas
 
 <p>
+<img 
+      align="right" 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfraga14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -52,11 +58,5 @@
     src="https://github-readme-stats.vercel.app/api?username=arthurfraga14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfraga14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
