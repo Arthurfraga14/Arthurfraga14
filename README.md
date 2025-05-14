@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Júnior`**
 
-Olá! Me chamo Arthur, tenho 19 anos e atualmente estou cursando o técnico em Desenvolvimento de Sistemas no SENAI.  
+Olá! Me chamo Arthur, tenho 19 anos e atualmente estou cursando nível técnico em Desenvolvimento de Sistemas no SENAI.  
 Sou apaixonado por tecnologia e estou sempre aprendendo e buscando novos desafios para evoluir como desenvolvedor.
 🚀 Em busca de experiências reais e projetos colaborativos!
 
@@ -59,7 +59,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo e buscando novos desafio
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=arthurfraga14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
