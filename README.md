@@ -2,8 +2,10 @@
 
 **`Desenvolvedor FullStack Júnior`**
 
-Olá! Me chamo Arthur, tenho 20 anos e atualmente estou cursando nível técnico em Desenvolvimento de Sistemas no SENAI.  
-Sou apaixonado por tecnologia e estou sempre aprendendo e buscando novos desafios para evoluir como desenvolvedor.
+Olá! Me chamo Arthur, tenho 20 anos e estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior para entrar de vez no mercado de trabalho e vivenciar a rotina da área.
+Sou estudante do bacharelado de engenharia de software na Universidade Católica de Salvador.
+Trago comigo muita vontade de aprender com profissionais mais experientes, dedicando meu tempo a resolver problemas desenvolvendo projetos reais e práticos para que possa agregar valor a equipe
+
 
 
 ### 🤖 Linguagens e Tecnologias
