@@ -52,7 +52,7 @@ Trago comigo muita vontade de aprender com profissionais mais experientes, dedic
     title="Java"
     width="50px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg)" 
 />
 
 <br/>
